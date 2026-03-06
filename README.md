@@ -1,14 +1,19 @@
+
+https://github.com/user-attachments/assets/244dfc65-1673-40cd-a93a-1688e3e985e8
 # Personal-portfolio website
 This is my personal portfolio website built using HTML. 
-The project showcases my profile, projects, skikks, and contact information as I begin and document my journey into frontend development. 
-
-## 🌐Live Preview
-You can view the project here:
-(link)
+The project showcases my profile, projects, skikks, and contact information as I begin and document my journey into frontend development.
 
 ## 🎥Project Demo
 Watch a short demo of the portfolio here:
-(video)
+
+
+
+https://github.com/user-attachments/assets/fbb9374f-26f0-494c-89e4-912b436fedd3
+
+
+
+
 
 ## 📖About the Project
 This portfolio website qas created tp present my work and document my progress as a beginner frontend developer.
